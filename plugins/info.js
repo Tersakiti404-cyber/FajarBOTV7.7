@@ -6,7 +6,7 @@ Dibuat dengan javascript via NodeJs,Ffmpeg,dan ImageMagick
 Rec: Drawl Nag
 Script: @Nurotomo
 Github: 
-https://github.com/Arya274/Arya-BOT3
+https://github.com/Tersakiti404-cyber/FajarBOTV7.7
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
@@ -21,10 +21,10 @@ ST4RZ
 Dan kawan yang lain :)
 
 ╠═〘 DONASI 〙 ═
-╠➥ SmartFren: 0882-3543-5804
-╠➥ Tsel: 0813-5730-2007
-╠➥ Indosat: 0815-1586-0089
-║>Request? Wa.me/6281357302007
+╠➥ DANA: +62 813-3378-2061
+╠➥ Tsel: +62 813-3378-2061
+╠➥ OVO: +62 813-3378-2061
+║>Request? Wa.me/62813-3378-2061
 ╠═〘 INFO BOT 〙 ═
 `.trim(), m)
 }
