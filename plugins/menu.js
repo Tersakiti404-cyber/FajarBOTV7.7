@@ -80,7 +80,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╿ Github :
 ╿ *_PRIVATE BY OWNER_*
 ╿ Instagram : @mhmdfjralfarizi_
-╿ YT Creator: Drawl Nag
+╿ YT Creator BOT: Drawl Nag
 ╰═══════════════
 
 ╭════•›「 Rules 」
